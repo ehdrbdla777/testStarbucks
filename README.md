@@ -1,4 +1,4 @@
-[![스타벅스](.images/starbucks_logo.png)](https://ehdrbdla777.github.io/testStarbucks/)
+[![스타벅스](./images/starbucks_logo.png)](https://ehdrbdla777.github.io/testStarbucks/)
 
 [해당페이지로 이동](https://ehdrbdla777.github.io/testStarbucks/)
 
